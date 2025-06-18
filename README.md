@@ -2,6 +2,19 @@
 
 Integrated the OpenAI API into a JavaScript-based web app. I took a React-based weather app, adds  a heavy dose of AI, and created an interactive experience that knows what location you want weather information from, explains the weather data in simple language, and even suggests what to wear. 
 
+## Instructions
+1. Create OpenWeather account and key: https://home.openweathermap.org/api_keys
+
+2. Create OpenAI key:
+- Sign Up for OpenAI API:
+    https://openai.com/blog/openai-api → Log in → OpenAI API
+    
+    - Go to platform.openai.com and sign up for the OpenAI API service, even if you already have a ChatGPT account.
+    - [docs](https://platform.openai.com/docs/overview)
+	- **NOTE: You will need to add a credit card to have a key on the OpenAI API.**
+
+3. Add the keys to the `.env.local` file
+
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
